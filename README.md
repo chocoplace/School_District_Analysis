@@ -73,3 +73,15 @@ School_Type _New
 
 ![School_Type _New](https://github.com/chocoplace/School_District_Analysis/blob/main/Resources/School_type_new.png)
 
+- Summary: 
+The most noticeable changes by replacing the grades of ninth graders of Thomas High School with NaN are:
+
+  -- Percentage of Passing Math on School Summary changed from 93.272% to 66.911%.
+  
+  -- Percentage of Passing Reading on School Summary changed from 97.308% to 69.663%.
+  
+  -- Percentage of Overall Passing changed from 90.948% to 65.076%.
+  
+  -- The district summary stayed the same on Total Students and Total Schools and even though the Average Reading Score did not show any changes, the percentage of Passing reading changed from 86% to 85.7%. 
+
+End

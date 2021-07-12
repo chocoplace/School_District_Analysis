@@ -45,3 +45,31 @@ Top_5_Old
 
 Top_5_New
 ![Top_5_New](https://github.com/chocoplace/School_District_Analysis/blob/main/Resources/Top_5_new.png)
+
+
+- *How does replacing the ninth-grade scores affect the following:*
+
+   -- Math and reading scores by grade
+Overall, no changes reflected. We used the same code to analyze this with the understanding that the ninth grades were replaced by NaN = 0. 
+
+   -- Scores by school spending
+Overall, no changes reflected. The number of students stayed the same because the code only replaced the score of ninth graders for NaN=0. 
+
+School_Spending _New
+
+![School_Spending _New](https://github.com/chocoplace/School_District_Analysis/blob/main/Resources/School_spending_new.png)
+
+   -- Scores by school size
+Overall, no changes reflected. The number of students stayed the same because the code only replaced the score of ninth graders for NaN=0. 
+
+School_Size _New
+
+![School_Size _New](https://github.com/chocoplace/School_District_Analysis/blob/main/Resources/School_size_new.png)
+
+   -- Scores by school type
+Overall, no changes reflected. The number of students stayed the same because the code only replaced the score of ninth graders for NaN=0. 
+
+School_Type _New
+
+![School_Type _New](https://github.com/chocoplace/School_District_Analysis/blob/main/Resources/School_type_new.png)
+

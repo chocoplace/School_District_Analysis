@@ -16,9 +16,9 @@ Software: Python 3.7.6, Anaconda 4.10.3, Pandas and Jupyter Notebook 6.3.0, amon
 
 The code for the analysis of the election can be found here [PityCitySchools_Challenge](https://github.com/chocoplace/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb), and the results show the following:
 
-How is the district summary affected?
+- *How is the district summary affected?*
 
-By replacing ninth graders' scores in math and reading results, the district summary was affected on the Average Math Score, % Passing Math, % Passing Reading and the % Overall Passing as seen on the following tables:
+By replacing ninth graders' scores in math and reading results, the district summary was affected with a decrease in the Average Math Score, % Passing Math, % Passing Reading and the % Overall Passing. As seen on the following tables:
 
 ![District_Summary_Old](https://github.com/chocoplace/School_District_Analysis/blob/main/Resources/District_Summary_old.png)
 

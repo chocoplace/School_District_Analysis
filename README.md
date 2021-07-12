@@ -36,3 +36,12 @@ School_Summary_Old
 School_Summary_New
 ![School_Summary_New](https://github.com/chocoplace/School_District_Analysis/blob/main/Resources/School_Summary_new.png)
 
+- *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?*
+
+After replacing the ninth graders’ scores, Thomas High School remained on the second place of performance list “5 Top Schools”, the only changes were a decrease in the percentages of Passing Math, Passing Reading and Overall Passing. As seen on the following tables:
+
+Top_5_Old
+![Top_5_Old](https://github.com/chocoplace/School_District_Analysis/blob/main/Resources/Top_5_old.png)
+
+Top_5_New
+![Top_5_New](https://github.com/chocoplace/School_District_Analysis/blob/main/Resources/Top_5_new.png)
